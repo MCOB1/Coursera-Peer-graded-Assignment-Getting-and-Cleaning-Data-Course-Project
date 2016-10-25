@@ -6,7 +6,21 @@ This README.md file comprises two parts:
   1. Coursera instructions for completing the course project
   2. Explanation of the analysis files included in this repo
 
-### Coursera instructions for completing the course project
+### Part 1: Explanation of the analysis files included in this repo
+
+#### Files in this repo
+This repo contains four files:
+  1. README.md - The document you are reading now.
+  2. TidaDataSet.txt - A tidy data set that includes the mean for each variable, for each activity, for each subject.
+  3. Codebook.md - Summarizes the variables and data in TidyDataSet.txt, including identifiers, measurements, and activity labels
+  4. run_analysis.R - an R script that does the following:
+    1. Merges the training and the test sets to create one data set.
+    2. Extracts only the measurements on the mean and standard deviation for each measurement.
+    3. Uses descriptive activity names to name the activities in the data set
+    4. Appropriately labels the data set with descriptive variable names.
+    5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+    
+### Part 2: Coursera instructions for completing the course project
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 
@@ -39,12 +53,3 @@ You should create one R script called run_analysis.R that does the following.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 Good luck!
-
-### Explanation of the analysis files included in this repo
-
-## Files in this repo
-This repo contains four files:
-  1. README.md - The document you are reading now.
-  2. TidaDataSet.txt - A tidy data set that includes the mean for each variable, for each activity, for each subject.
-  3. 
-  4. 
