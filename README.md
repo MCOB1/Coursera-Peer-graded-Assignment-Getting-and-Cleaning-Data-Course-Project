@@ -3,8 +3,8 @@
 ## Overview
 
 This README.md file comprises two parts:
-	1. Explanation of the analysis files included in this repo
-	2. Coursera instructions for completing the course project
+1. Explanation of the analysis files included in this repo
+2. Coursera instructions for completing the course project
 
 ## Part 1: Explanation of the analysis files included in this repo
 
