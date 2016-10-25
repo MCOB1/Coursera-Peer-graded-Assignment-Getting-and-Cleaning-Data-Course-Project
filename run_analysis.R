@@ -58,9 +58,7 @@ ActSubMeanStd <- (grepl("activityId" , colNames) |
 ActSubMeanStd <- Combined[ , ActSubMeanStd == TRUE]
 
 # Merge activityLabels data set with the ActSubMeanStd data set by activityId
-ActlabelsSubMeanStd <- merge(ActSubMeanStd, activityLabels,
-                              by='activityId',
-                              all.x=TRUE)
+ActlabelsSubMeanStd <- merge(ActSubMeanStd, activityLabels, by='activityId', all.x=TRUE)
 
 # Create a tidy data set with the mean of each variable, for each activity-subject pair:
 TidyDataSet <- aggregate(. ~subjectId + activityId, ActlabelsSubMeanStd, mean)
