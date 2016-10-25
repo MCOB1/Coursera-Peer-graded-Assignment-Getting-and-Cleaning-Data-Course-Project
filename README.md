@@ -2,13 +2,13 @@
 
 ## Overview
 
-This README.md file comprises two parts: 
+### This README.md file comprises two parts: 
 	1. Explanation of the analysis files included in this repo  
 	2. Coursera instructions for completing the course project  
 
 ## Part 1: Explanation of the analysis files included in this repo
 
-This repo contains four files:  
+### This repo contains four files:  
     1. README.md - The document you are reading now.
     2. TidaDataSet.txt - A tidy data set that includes the mean for each variable for each activity and subject pair.  
     3. Codebook.md - Summarizes the variables and data in TidyDataSet.txt, including identifiers, measurements, and activity labels.  
