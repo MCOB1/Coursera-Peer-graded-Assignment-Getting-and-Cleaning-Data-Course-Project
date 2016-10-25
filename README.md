@@ -2,7 +2,7 @@
 
 ### Overview
 
-#### This README.md file comprises two parts: 
+#### This README.md file has two parts: 
 1. Explanation of the analysis files included in this repo  
 2. Coursera instructions for completing the course project  
 
