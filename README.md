@@ -1,12 +1,12 @@
-# Coursera Peer graded Assignment Getting and Cleaning Data Course Project
+# Coursera Peer-graded Assignment Getting and Cleaning Data Course Project
 
-## **Overview**
+## Overview
 
 This README.md file comprises two parts:
   1. Coursera instructions for completing the course project
   2. Explanation of the analysis files included in this repo
 
-### **Coursera instructions for completing the course project**
+### Coursera instructions for completing the course project
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 
@@ -39,3 +39,12 @@ You should create one R script called run_analysis.R that does the following.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 Good luck!
+
+### Explanation of the analysis files included in this repo
+
+## Files in this repo
+This repo contains four files:
+  1. README.md - The document you are reading now.
+  2. TidaDataSet.txt - A tidy data set that includes the mean for each variable, for each activity, for each subject.
+  3. 
+  4. 
