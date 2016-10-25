@@ -1,12 +1,12 @@
 # Coursera Peer graded Assignment Getting and Cleaning Data Course Project
 
-## Overview
+## **Overview**
 
 This README.md file comprises two parts:
-1. Coursera instructions for completing the course project
-2. Explanation of the analysis files included in this repo
+  1. Coursera instructions for completing the course project
+  2. Explanation of the analysis files included in this repo
 
-### Coursera instructions for completing the course project
+### **Coursera instructions for completing the course project**
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 
