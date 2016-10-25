@@ -3,34 +3,33 @@
 ## Overview
 
 This README.md file comprises two parts:
-  1. Explanation of the analysis files included in this repo
-  2. Coursera instructions for completing the course project
+1. Explanation of the analysis files included in this repo
+2. Coursera instructions for completing the course project
 
-### Part 1: Explanation of the analysis files included in this repo
+## Part 1: Explanation of the analysis files included in this repo
 
 #### Files in this repo
 This repo contains four files:
-  1. README.md - The document you are reading now.
-  2. TidaDataSet.txt - A tidy data set that includes the mean for each variable for each activity and subject pair.
-  3. Codebook.md - Summarizes the variables and data in TidyDataSet.txt, including identifiers, measurements, and activity labels
-  4. run_analysis.R - an R script that does the following:
-    1. Merges the training and the test sets to create one data set.
-    2. Extracts only the measurements on the mean and standard deviation for each measurement.
-    3. Uses descriptive activity names to name the activities in the data set
-    4. Appropriately labels the data set with descriptive variable names.
-    5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+1. README.md - The document you are reading now.
+2. TidaDataSet.txt - A tidy data set that includes the mean for each variable for each activity and subject pair.
+3. Codebook.md - Summarizes the variables and data in TidyDataSet.txt, including identifiers, measurements, and activity labels
+4. run_analysis.R - an R script that does the following:
+	1. Merges the training and the test sets to create one data set.
+	2. Extracts only the measurements on the mean and standard deviation for each measurement.
+	3. Uses descriptive activity names to name the activities in the data set
+	4. Appropriately labels the data set with descriptive variable names.
+	5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
     
-### Part 2: Coursera instructions for completing the course project
+## Part 2: Coursera instructions for completing the course project
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 
 #### Review criteria
-
-  1. The submitted data set is tidy.
-  2. The Github repo contains the required scripts.
-  3. GitHub contains a code book that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
-  4. The README that explains the analysis files is clear and understandable.
-  5. The work submitted for this project is the work of the student who submitted it.
+1. The submitted data set is tidy.
+2. The Github repo contains the required scripts.
+3. GitHub contains a code book that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
+4. The README that explains the analysis files is clear and understandable.
+5. The work submitted for this project is the work of the student who submitted it.
 
 #### Getting and Cleaning Data Course Project
 
