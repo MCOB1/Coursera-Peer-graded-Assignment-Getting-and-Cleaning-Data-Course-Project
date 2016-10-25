@@ -48,7 +48,8 @@ Combined <- rbind(merge_train, merge_test)
 # Collect the all the column names of Combined into a new object called colnames
 colNames <- colnames(Combined)
 
-# Create a logical vector called ActSubMeanStd that identifies all columns named either "activityId" or "subjectID" or includes the words "mean" or "std". Then subset this vector for TRUE observations. 
+# Create a logical vector called ActSubMeanStd that identifies all columns named either "activityId" or "subjectID" or 
+# includes the words "mean" or "std". Then subset this vector for TRUE observations. 
 ActSubMeanStd <- (grepl("activityId" , colNames) | 
                  grepl("subjectId" , colNames) | 
                  grepl("mean.." , colNames) | 
