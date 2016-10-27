@@ -127,7 +127,7 @@ TidyDataSet <- FINAL %>%
     summarise_each(funs(mean))
 
 # Export TIDY 
-write.table(TidyDataSet, './TidyDataSet.txt',sep='\t')
+write.table(TidyDataSet, './TidyDataSet.txt',sep='\t', row.names = FALSE)
 View(TidyDataSet)
 
 
