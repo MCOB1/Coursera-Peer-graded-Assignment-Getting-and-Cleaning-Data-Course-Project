@@ -11,7 +11,7 @@
 #### This repo contains four files:  
 1. README.md - The document you are reading now.
 2. TidyDataSet.txt - A tidy data set that includes the mean for each variable for each activity and subject pair.  
-3. Codebook.md - Summarizes the variables and data in TidyDataSet.txt, including identifiers, measurements, and activity labels.  
+3. CodeBook.md - Summarizes the variables and data in TidyDataSet.txt, including identifiers, measurements, and activity labels.  
 4. run_analysis.R - an R script that does the following:  
     1. Merges the training and the test sets to create one data set.  
     2. Extracts only the measurements on the mean and standard deviation for each measurement.  
